@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={AB3F6110-F47C-49D9-AE0F-49A6FF9B4182}
+DistPackageGUID={E3818A63-6CB0-4375-B7A4-5F636F54472D}
+DistributionVersion=1.0.8
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=CDL97 GV install.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
